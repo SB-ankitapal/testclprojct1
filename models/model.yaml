@@ -7,3 +7,7 @@ properties:
     type: string
     x-stoplight:
       id: v342to01fhvtr
+description: tret
+examples:
+  - id: string
+x-extension-1: null
